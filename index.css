@@ -1,0 +1,16 @@
+.head {
+    display: flex;
+    background-color: rgb(103, 212, 176);
+    flex-direction: column;
+}
+
+.head h1 {
+    display: flex;
+    justify-content: center;
+    background-color:aquamarine;
+}
+
+.profile-website {
+    display: grid;
+    grid-template-columns: auto;
+}
